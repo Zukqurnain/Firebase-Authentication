@@ -1,0 +1,6 @@
+.same {
+    height: 50px !important;
+    border-radius: 1px !important;
+    border-style: hidden  !important;
+    cursor: pointer;
+};
